@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -402,9 +402,9 @@ ninja.data = [{
           section: "News",},{id: "news-began-studying-for-an-sc-m-in-mechanical-engineering-at-brown-university",
           title: 'Began studying for an Sc.M. in Mechanical Engineering at Brown University.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-drivetrain",
+          title: 'Drivetrain',
+          description: "Brown Formula Racing Lead Mechanical Engineer, Drivetrain",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
