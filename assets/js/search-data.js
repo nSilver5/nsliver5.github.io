@@ -391,16 +391,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-graduated-from-brown-univeristy-with-an-sc-b-in-mechanical-engineering",
+          title: 'Graduated from Brown Univeristy with an Sc.B. in Mechanical Engineering.',
+          description: "",
+          section: "News",},{id: "news-began-studying-for-an-sc-m-in-mechanical-engineering-at-brown-university",
+          title: 'Began studying for an Sc.M. in Mechanical Engineering at Brown University.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
